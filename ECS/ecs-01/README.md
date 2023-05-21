@@ -42,7 +42,7 @@ At the end of the this hands-on training, students will be able to;
 
 - Click on `Create Repository` and explain the default `registry` for user account. (`aws_account_id`.dkr.ecr.`region`.amazonaws.com)
 
-- Enter a repository name ex. `clarusshop`.
+- Enter a repository name ex. `clarusshop`
 
 - Keep the other parameters as default.
 
